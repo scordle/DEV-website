@@ -10,10 +10,13 @@ body {
 	margin: 0; 
 	font: 0.74em Arial, Helvetica, sans-serif; 
 	line-height: 1.5em;
-	background: #196F5E; 
+	background: #ff3300; 
 	color: #005141; 
 }
-
+.container-marketing
+{
+  color: #ff3300;
+}
 a {
 	color: #4A8EBC; 
 	background: inherit;
