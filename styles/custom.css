@@ -36,3 +36,8 @@ This stylesheet should contain any 'custom' styles
 
 
 /* end of changes imported from carousel-jb.css */
+
+footer {
+    color: #99b39b;
+    background-color: #545454;
+}
