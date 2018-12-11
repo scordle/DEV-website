@@ -17,7 +17,8 @@ This stylesheet should contain any 'custom' styles
 }
 
 .marketing .col-lg-4 {
-    margin: 1.5rem 0 1.5rem 0;
+    margin-bottom: 1.5rem;
+    /* **not working margin-top: 1.5rem; */
     text-align: center;
     background-color: #005141;
 }
@@ -38,6 +39,7 @@ This stylesheet should contain any 'custom' styles
 /* end of changes imported from carousel-jb.css */
 
 footer {
+    /* **not working */
     color: #99b39b;
     background-color: #545454;
 }
