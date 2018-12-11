@@ -30,5 +30,6 @@ This stylesheet should contain any 'custom' styles
 .marketing .col-lg-4 p {
     margin-right: .75rem;
     margin-left: .75rem;
-    color: #009900;
+    color: #ffffff;
+    /* color: #009900; */
 }
