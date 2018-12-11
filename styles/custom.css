@@ -1,0 +1,45 @@
+/**
+This stylesheet should contain any 'custom' styles
+*/
+
+
+/* styles copied from carousel-jb.css */
+
+.carousel-item {
+    height: 32rem;
+    background-color: #005141;
+}
+
+.row {
+    /* background-color: #3399ff; */
+    color: #343a40;
+    /*color:  #ff5050; */
+}
+
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    /* **not working margin-top: 1.5rem; */
+    text-align: center;
+    background-color: #005141;
+}
+
+.marketing h2 {
+    font-weight: 400;
+    color: #99b39d;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+    color: #ffffff;
+    /* color: #009900; */
+}
+
+
+/* end of changes imported from carousel-jb.css */
+
+footer {
+    /* **not working */
+    color: #99b39b;
+    background-color: #545454;
+}
