@@ -39,7 +39,20 @@ This stylesheet should contain any 'custom' styles
 /* end of changes imported from carousel-jb.css */
 
 footer {
-    /* **not working */
-    color: #99b39b;
-    background-color: #545454;
+    background-color: #99b39b;
+}
+
+footer li.section-header {
+    color: #000;
+    font-weight: bold;
+}
+
+footer a {
+    color: #005141;
+}
+
+footer a:hover {
+    color: #2e9636;
+    font-weight: bolder;
+    text-decoration: none;
 }
