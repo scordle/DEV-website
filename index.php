@@ -1,12 +1,11 @@
-
 <!-- This file is not currently being used by this project.  It is included only as 
      as a point of reference -->
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
 <head>
-<title>CICT Development Server</title>
-<!-- 
+	<title>CICT Development Server</title>
+	<!-- 
 	Author: 		Scott Cordle
 	Original Date: 	09/28/2012
 	Updated: 		12/06/2016
@@ -26,7 +25,7 @@
 		websites from, and you are more than welcome to use it as wanted. To 
 		learn more about using templates, visit http://andreasviklund.com!
 -->
-	
+
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="This website hosts student work for the 
 		CS department at Sullivan University in Louisville, KY" />
@@ -34,44 +33,44 @@
 	<meta name="author" content="Scott Cordle" />
 	<!-- <link rel="stylesheet" type="text/css" href="styles/variant-rounded.css" 
 	  title="Variant Rounded" media="screen,projection" /> -->
-	  
+
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 
-	
+
 </head>
 
 <body>
-<div id="wrap">
+	<div id="wrap">
 
-	<div id="header">
-		<p class="hide">skip to: <a href="#content">content</a> | 
-		<a href="#sitemenu">navigation</a><br /></p>
-		<!--  <img src="images/flame.gif" alt="Sullivan flame" />  -->
-		<h1><a href="#"><span class="color">IT</span> Department</a></h1>
-		<p id="slogan">College of Information and Computer Technology</p>
-	</div>
+		<div id="header">
+			<p class="hide">skip to: <a href="#content">content</a> |
+				<a href="#sitemenu">navigation</a><br /></p>
+			<!--  <img src="images/flame.gif" alt="Sullivan flame" />  -->
+			<h1><a href="#"><span class="color">IT</span> Department</a></h1>
+			<p id="slogan">College of Information and Computer Technology</p>
+		</div>
 
-	<?php include("includes/menus.inc"); ?>
+		<?php include("includes/menus.inc"); ?>
 
-	<div id="content">
+		<div id="content">
 
-		<h2>Welcome to CICTspace</h2>
-		<!-- <div class="datetag">
+			<h2>Welcome to CICTspace</h2>
+			<!-- <div class="datetag">
 			<span class="date">24</span>
 			<span class="month">Sep</span>
 		</div> -->
 
-		<p>Welcome to the Sullivan University Information Technology Department
-		   Academic Server. This server is used to house student projects. To 
-		   get an account on this server, you must be taking a course that is using 
-		   it. For access problems, please contact Scott Cordle at 
-		   scordle [at] sullivan.edu.</p>
-			
-		<!--<h2>Computer Science Education Week Starts</h2>
+			<p>Welcome to the Sullivan University Information Technology Department
+				Academic Server. This server is used to house student projects. To
+				get an account on this server, you must be taking a course that is using
+				it. For access problems, please contact Scott Cordle at
+				scordle [at] sullivan.edu.</p>
+
+			<!--<h2>Computer Science Education Week Starts</h2>
 		<div class="datetag">
 			<span class="date">09</span>
 			<span class="month">Dec</span>
@@ -105,45 +104,44 @@
 		<p>Many other tutorials projects are available at 
 		<a href="http://goo.gl/dYnvyc">Code.org</a> -->
 
-		<h2>Become a Member of ACM!</h2>
-		<!-- <div class="datetag">
+			<h2>Become a Member of ACM!</h2>
+			<!-- <div class="datetag">
 			<span class="date">28</span>
 			<span class="month">Sep</span>
 		</div> -->
-		
-		<h3>Student Membership Benefits </h3>
-		<ul>  
-			<li>Free access to 100+ software packages from Microsoft Imagine</li>
-			<li>Access to online courses, ebooks and training videos, </li>
-			<li>Electronic subscription to CACM magazine </li>
-			<li>Access to ACM's highly targeted Career &amp; Job Center </li>
-			<li>Free e-mentoring services from MentorNet&reg; </li>
-			<li>Electronic subscription to XRDS magazine </li>
-			<li>ACM CareerNews (twice monthly) </li>
-			<li>ACM e-news digest TechNews (triweekly) </li>
-			<li>ACM monthly online newsletter MemberNet </li>
-			<li>Free "acm.org" email forwarding address plus filtering through Postini </li>
-			<li>Options to subscribe to the full ACM Digital Library </li>
-		</ul>
-		
-		<p>Sign up for an ACM Student Membership 
-			<a href="https://campus.acm.org/public/qj/quickjoin/qj_control.cfm?form_type=Student">
-			here</a></p>
-		
+
+			<h3>Student Membership Benefits </h3>
+			<ul>
+				<li>Free access to 100+ software packages from Microsoft Imagine</li>
+				<li>Access to online courses, ebooks and training videos, </li>
+				<li>Electronic subscription to CACM magazine </li>
+				<li>Access to ACM's highly targeted Career &amp; Job Center </li>
+				<li>Free e-mentoring services from MentorNet&reg; </li>
+				<li>Electronic subscription to XRDS magazine </li>
+				<li>ACM CareerNews (twice monthly) </li>
+				<li>ACM e-news digest TechNews (triweekly) </li>
+				<li>ACM monthly online newsletter MemberNet </li>
+				<li>Free "acm.org" email forwarding address plus filtering through Postini </li>
+				<li>Options to subscribe to the full ACM Digital Library </li>
+			</ul>
+
+			<p>Sign up for an ACM Student Membership
+				<a href="https://campus.acm.org/public/qj/quickjoin/qj_control.cfm?form_type=Student">
+					here</a></p>
 
 
-		
-		<p class="center">
-			<img src="images/frontphoto.jpg" width="400" height="212" 
-			  alt="Sample image" />
-		</p>
 
-		
-	</div>
 
-	<?php include("includes/footer.inc"); ?>
+			<p class="center">
+				<img src="images/frontphoto.jpg" width="400" height="212" alt="Sample image" />
+			</p>
 
-	<!--<div id="footer">
+
+		</div>
+
+		<?php include("includes/footer.inc"); ?>
+
+		<!--<div id="footer">
 		<p><a href="http://validator.w3.org/check?uri=referer"> HTML </a> &bull; 
 			<a href="http://jigsaw.w3.org/css-validator/check/referer"> CSS </a></p>
 		<p><strong>Copyright &copy; 2016 dev.cictspace.net</strong><br />
@@ -151,6 +149,7 @@
 	</div>
 	-->
 
-</div>
+	</div>
 </body>
+
 </html>
